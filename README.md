@@ -1,6 +1,6 @@
 # S2TDM: Spatial-Spectral Transformer-based Diffusion Model for Hyperspectral Image Denoising
 
-This repository contains the code for the paper
+This repository contains the code for the paper S2TDM: Spatial-Spectral Transformer-based Diffusion Model for Hyperspectral Image Denoising
 
 <!-- [Arxiv]()  -->
 
